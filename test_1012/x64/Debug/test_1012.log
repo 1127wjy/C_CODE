@@ -1,0 +1,4 @@
+﻿  game.c
+D:\Visual Studio repo\test_1012\test_1012\game.c(14): warning C4716: “InitBoard”: 必须返回一个值
+D:\Visual Studio repo\test_1012\test_1012\game.c(32): warning C4716: “DisplayBoard”: 必须返回一个值
+  test_1012.vcxproj -> D:\Visual Studio repo\test_1012\x64\Debug\game2.exe

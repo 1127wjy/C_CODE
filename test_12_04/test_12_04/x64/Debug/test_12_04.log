@@ -1,0 +1,3 @@
+﻿  test.c
+D:\Visual Code repos\test_12_04\test_12_04\test.c(34,2): warning C4013: “system”未定义；假设外部返回 int
+  test_12_04.vcxproj -> D:\Visual Code repos\test_12_04\x64\Debug\test_12_04.exe
