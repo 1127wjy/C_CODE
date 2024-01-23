@@ -1,0 +1,3 @@
+﻿  index.c
+text.obj : error LNK2005: main 已经在 index.obj 中定义
+D:\Visual Code repos\test_01_10\x64\Debug\test_01_10.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
